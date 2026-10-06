@@ -29,6 +29,7 @@ Python, NLTK, scikit-learn, TensorFlow/Keras, pandas, NumPy, WordCloud, Matplotl
 
 📁 Files
 NLPRestaurant.ipynb: the full notebook, from data cleaning to evaluation
+
 🚀 How to Run
 Install the dependencies:
 bash
